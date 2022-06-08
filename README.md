@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey guys! I'm Derek. 👋
 
 <!--
 **drleafgreen88/drleafgreen88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
